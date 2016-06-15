@@ -11,6 +11,7 @@ Workshops
 PyCon Ireland in Dublin, 26th October 2015
 ------------------------------------------
 
+* Yvan Montalieu https://github.com/stratomaps
 * Simon Parker https://github.com/simonparkerdublin @SparkerDublin
 * Anna Szewc, https://github.com/NannahA
 * Iain Geddes iaingeddes@theiet.org https://github.com/iaingeddes
